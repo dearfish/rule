@@ -4,7 +4,6 @@ DOMAIN-KEYWORD,xlliveud
 DOMAIN-KEYWORD,xunlei
 DOMAIN-KEYWORD,yunpan
 DOMAIN-SUFFIX,qbittorrent.org
-DOMAIN-SUFFIX,'*.mypikpak.com'
 PROCESS-NAME,aria2
 PROCESS-NAME,aria2.exe
 PROCESS-NAME,aria2c
