@@ -1,3 +1,4 @@
 DOMAIN-SUFFIX,shouer.pp.ua
 DOMAIN-SUFFIX,firecat1.pp.ua
 DOMAIN-SUFFIX,firecat2.pp.ua
+DOMAIN-REGEX,^dl-.*\.mypikpak\.com$
