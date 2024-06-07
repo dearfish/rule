@@ -3,5 +3,3 @@ DOMAIN-SUFFIX,firecat1.pp.ua
 DOMAIN-SUFFIX,firecat2.pp.ua
 DOMAIN-SUFFIX,taskernet.com
 DOMAIN-SUFFIX,nuget.org
-PROCESS-NAME,DownloadServer
-PROCESS-NAME,DownloadServer.exe
